@@ -8,13 +8,17 @@ https://www.linkedin.com/in/michael-syrel/
 Israel.
 
 This is my John bryce final project.
-The technologies is used in this project are: 
-  -Angular 7
-  -Web api
-  -Entity framework
-  -C# 
-  -CSS
-  -bootstrap
-  -HTML5
+
+  <dl>
+  <dt>- The technologies is used in this project are: </dt>
+  <dd>- Angular 7</dd>
+  <dd>- Web api</dd>
+  <dd>- Entity framework</dd>
+  <dd>- C#</dd>
+  <dd>- CSS</dd>
+  <dd>- Bootstrap</dd>
+  <dd>- HTML5</dd>
+  </dl>
+  
   
   You can take from this project some structure ideas and model implementation of angular and some back-end basic design.
